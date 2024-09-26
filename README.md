@@ -49,7 +49,6 @@ Whether it’s game dev or FPS games, I’m all about pushing limits. Each line 
 
 If you're into game dev, shaders, or just wanna talk music and FPS strategy, hit me up:
 
-- [LinkedIn](https://www.linkedin.com/in/Твой_профиль)
-- [Twitter](https://twitter.com/Твой_профиль)
+- Nothink...
 
 Stay tuned for more game dev magic, phonk beats, and epic FPS moments!
