@@ -20,11 +20,8 @@ Hey there! I'm a game developer with a passion for creating immersive worlds on 
 
 ## 🛠️ My Tech Stack
 
-![.NET](https://img.shields.io/badge/.NET-blue)
-- **Unity** (C#) – my main game engine for developing epic experiences
-- **ShaderLab** – creating shaders for that visual magic
-- **Blender** – modeling and animations to spice up my game worlds
-- **Git** – keeping my projects on point
+![.NET](https://img.shields.io/badge/.NET-blue?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/.NET-blue)
 
 ---
 
