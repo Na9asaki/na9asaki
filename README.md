@@ -1,4 +1,6 @@
-# 👋 Hey there! I'm [Твоё Имя]
+![Header](https://github.com/Na9asaki/na9asaki/blob/main/Assets/Background.png)
+
+# 👋 Hey there! Na9asaki is in place
 
 **`Full Stack Developer | Dreamer | Phonk Enthusiast`**
 
