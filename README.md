@@ -20,7 +20,7 @@ Hey there! I'm a game developer with a passion for creating immersive worlds on 
 
 ## 🛠️ My Tech Stack
 
-![.NET](https://img.shields.io/badge/-C#-blue?style=for-the-badge&logo=sharp)
+![.NET](https://img.shields.io/badge/-C#-blue?style=for-the-badge&logo=c%2b%2b)
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 ![VisualStudio](https://img.shields.io/badge/C#-black?style=for-the-badge&logo=sharp)
 
