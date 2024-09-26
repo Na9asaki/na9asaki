@@ -20,6 +20,7 @@ Hey there! I'm a game developer with a passion for creating immersive worlds on 
 
 ## 🛠️ My Tech Stack
 
+![.NET](https://img.shields.io/badge/.NET-blue)
 - **Unity** (C#) – my main game engine for developing epic experiences
 - **ShaderLab** – creating shaders for that visual magic
 - **Blender** – modeling and animations to spice up my game worlds
@@ -35,7 +36,7 @@ I’m always in my element, especially with the right music. Retro wave for thos
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=na9asaki&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=na9asaki&show_icons=true&theme=radical)
 
 ---
 
