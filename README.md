@@ -1,25 +1,37 @@
 ![Header](https://github.com/Na9asaki/na9asaki/blob/main/Assets/Background.png)
 
-# 👋 Hey there! Na9asaki is in place
+# 👾 Yo, I'm [Твоё Имя] – Game Developer & Vibe Catcher
 
-**`Full Stack Developer | Dreamer | Phonk Enthusiast`**
+**`Unity Dev | Shader Guru | Retro Enthusiast | Phonk Addict`**
 
-I'm a developer with a passion for coding, music, and everything in between. Here's a bit more about what I do:
+Hey there! I'm a game developer with a passion for creating immersive worlds on Unity, constantly leveling up my skills and diving deep into shaders and rendering magic. When I'm not coding, you can catch me grinding in FPS games, striving for that top-tier success, or vibing to retro wave and some heavy chill phonk.
 
-- 🔭 Currently working on **[название проекта]**
-- 🌱 Learning **JavaScript, Python, Rust**
-- 💬 Ask me about **web development**, **music production**, or **life-hacks** 🧠
-- 🎧 Loving **Phonk beats** & **Dreamwave vibes** while coding
-- ⚡ Fun fact: I can write markdown in my sleep 😎
+---
+
+## 🕹️ What I'm All About
+
+- 🎮 **Game Development**: Creating cool stuff in Unity. I’m always working on my next game, bringing my visions to life.
+- 🖥️ **Shaders & Rendering**: Experimenting with visual effects, lighting, and making things look dope with shaders.
+- 📚 **Lifelong Learner**: Always curious and picking up new skills — from advanced coding techniques to gameplay mechanics.
+- 🚀 **FPS Fanatic**: If there’s a shooter out there, you know I’m pushing my limits, going for those epic wins.
+- 🌌 **Retro Wave & Phonk**: My soundtrack to life — retro synths for the nostalgia, phonk beats for the chill.
 
 ---
 
 ## 🛠️ My Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+- **Unity** (C#) – my main game engine for developing epic experiences
+- **ShaderLab** – creating shaders for that visual magic
+- **Blender** – modeling and animations to spice up my game worlds
+- **Git** – keeping my projects on point
+
+---
+
+## 🎧 My Vibe While Coding
+
+I’m always in my element, especially with the right music. Retro wave for those nostalgia feels, and phonk to keep things flowing. Check out my coding vibes playlist if you wanna sync up with the mood!
+
+---
 
 ## 📈 GitHub Stats
 
@@ -27,7 +39,17 @@ I'm a developer with a passion for coding, music, and everything in between. Her
 
 ---
 
-## 🔗 Let's connect
+## 🏆 Aiming for Success
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Твой_профиль)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Твой_профиль)
+Whether it’s game dev or FPS games, I’m all about pushing limits. Each line of code, each shader tweak, and each headshot brings me closer to mastery. Let’s create, vibe, and dominate together.
+
+---
+
+## 📫 How to Reach Me
+
+If you're into game dev, shaders, or just wanna talk music and FPS strategy, hit me up:
+
+- [LinkedIn](https://www.linkedin.com/in/Твой_профиль)
+- [Twitter](https://twitter.com/Твой_профиль)
+
+Stay tuned for more game dev magic, phonk beats, and epic FPS moments!
