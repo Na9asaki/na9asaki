@@ -1,6 +1,6 @@
 ![Header](https://github.com/Na9asaki/na9asaki/blob/main/Assets/Background.png)
 
-# 👾 Yo, I'm [Твоё Имя] – Game Developer & Vibe Catcher
+# 👾 Yo, I'm Na9asaki – Game Developer & Vibe Catcher
 
 **`Unity Dev | Shader Guru | Retro Enthusiast | Phonk Addict`**
 
