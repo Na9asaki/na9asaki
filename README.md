@@ -21,7 +21,7 @@ I'm a developer with a passion for coding, music, and everything in between. Her
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Твой_юзернейм&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=na9asaki&show_icons=true&theme=radical)
 
 ---
 
