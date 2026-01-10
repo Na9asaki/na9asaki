@@ -1,54 +1,65 @@
-![Header](https://github.com/Na9asaki/na9asaki/blob/main/Assets/Background.png)
+# Unity Game Developer
 
-# 👾 Yo, I'm Na9asaki – Game Developer & Vibe Catcher
-
-**`Unity Dev | Shader Guru | Retro Enthusiast | Phonk Addict`**
-
-Hey there! I'm a game developer with a passion for creating immersive worlds on Unity, constantly leveling up my skills and diving deep into shaders and rendering magic. When I'm not coding, you can catch me grinding in FPS games, striving for that top-tier success, or vibing to retro wave and some heavy chill phonk.
+Я Unity-разработчик. Делаю геймплейные системы, UI, VFX и архитектуру.  
+Работаю с гиперказуальными и PC-проектами.
 
 ---
 
-## 🕹️ What I'm All About
+## Что я обычно делаю
 
-- 🎮 **Game Development**: Creating cool stuff in Unity. I’m always working on my next game, bringing my visions to life.
-- 🖥️ **Shaders & Rendering**: Experimenting with visual effects, lighting, and making things look dope with shaders.
-- 📚 **Lifelong Learner**: Always curious and picking up new skills — from advanced coding techniques to gameplay mechanics.
-- 🚀 **FPS Fanatic**: If there’s a shooter out there, you know I’m pushing my limits, going for those epic wins.
-- 🌌 **Retro Wave & Phonk**: My soundtrack to life — retro synths for the nostalgia, phonk beats for the chill.
-
----
-
-## 🛠️ My Tech Stack
-
-![.NET](https://img.shields.io/badge/-Framework-black?style=for-the-badge&logo=.net)
-![Unity](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity)
-![Rider](https://img.shields.io/badge/-Rider-black?style=for-the-badge&logo=rider)
-![C#](https://img.shields.io/badge/-C_sharp-black?style=for-the-badge&logo=c)
+- геймплейные системы  
+- способности, оружие, враги  
+- UI и HUD  
+- VFX и шейдеры  
+- архитектуру на ScriptableObject  
+- мультиплеерные механики
 
 ---
 
-## 🎧 My Vibe While Coding
+## Стек
 
-I’m always in my element, especially with the right music. Retro wave for those nostalgia feels, and phonk to keep things flowing. Check out my coding vibes playlist if you wanna sync up with the mood!
+**Unity**
+- Input System
+- Timeline
+- URP (Custom Render Features)
+- Shader Graph
+- UniRx
+- UniTask
+- Zenject  
+
+**Сети**
+- FishNet  
+- Steamworks  
 
 ---
 
-## 📈 GitHub Stats
+## Проекты
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=na9asaki&show_icons=true&theme=radical)
-
----
-
-## 🏆 Aiming for Success
-
-Whether it’s game dev or FPS games, I’m all about pushing limits. Each line of code, each shader tweak, and each headshot brings me closer to mastery. Let’s create, vibe, and dominate together.
+### Exhaust (PC)
+Система способностей, контроллер персонажа, поведение врагов.  
 
 ---
 
-## 📫 How to Reach Me
+### Voodoo Child (PC)
+Система крафта, квестов и задач
 
-If you're into game dev, shaders, or just wanna talk music and FPS strategy, hit me up:
+---
 
-- Nothink...
+### Multiplayer Prototype (Steam)
+Прототип мультиплеера на Mirror/FishNet + Steamworks.  
+Лобби, синхронизация, никнеймы, аватары.
 
-Stay tuned for more game dev magic, phonk beats, and epic FPS moments!
+---
+
+## Как я работаю
+
+- придерживаюсь принципов SOLID, KISS, DRY  
+- использую современные инструменты для эффективной разработки систем
+- реализую собственные editor-tools для ускорения разработки
+
+---
+
+## Ссылки
+
+- Itch.io — *([ссылка на профиль](https://na9asaki.itch.io/))*  
+- GitHub — *([ссылка на репозитории](https://github.com/Na9asaki?tab=repositories))*  
