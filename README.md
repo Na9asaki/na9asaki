@@ -1,14 +1,15 @@
 # Unity Game Developer
 
-Я делаю игры на Unity, преимущественно в 3D.  
-Создаю игровые механики, визуальные эффекты и интерактивные системы, стараясь делать их интересными и гибкими.
+I create games in Unity, primarily in 3D, focusing on building engaging gameplay mechanics, visual effects, and interactive systems.
 
-Работаю с разными жанрами - от повествовательных проектов и квестов до шутеров, аркад и мультиплеерных прототипов.  
-Много внимания уделяю визуалу: пишу свои шейдеры, кастомные URP renderer features и VFX-системы, чтобы каждая игра выглядела уникально.
+I work across multiple genres — from narrative-driven projects and quests to shooters, arcade games, and multiplayer prototypes.  
+A strong focus of my work is visual development: I write custom shaders, URP renderer features, and VFX systems to make every project visually distinctive.
+
+My goal is to build flexible, polished systems that are both technically solid and enjoyable to play.
 
 ---
 
-## Проекты и репозитории
+## Projects & Repositories
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-Visit-blue?logo=itch.io)](https://na9asaki.itch.io)  
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Repos-black?logo=github)](https://github.com/Na9asaki?tab=repositories)
